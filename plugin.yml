@@ -1,0 +1,6 @@
+﻿name: ZS-JoinMessage
+api: [4.0.0] 
+version: "1.0.0"
+main: NewZerosm\JoinMessage
+author: MineDefenser
+website: http://zerosm.kro.kr
