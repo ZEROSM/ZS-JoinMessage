@@ -9,7 +9,7 @@ use pocketmine\event\player\PlayerInteractEvent;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\player\PlayerQuitEvent;
 
-class JoinMessage extends PluginBase implements Listener{
+class JoinMessage extends PluginBase{
 
     public function onEnable(){
 		$this->getServer()->getPluginManager()->registerEvents($this, $this);
